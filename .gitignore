@@ -1,0 +1,21 @@
+# macOS and R session state
+.DS_Store
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# R package build and check output
+..Rcheck/
+*.Rcheck/
+*.tar.gz
+*.Rout
+
+# Native compilation output
+src/*.o
+src/*.so
+src/*.dll
+src/*.dylib
+src/*.mod
+src/symbols.rds
+

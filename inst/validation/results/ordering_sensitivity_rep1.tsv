@@ -1,0 +1,6 @@
+method	maxpts	sigma2_original_order	sigma2_permuted_order	absolute_difference
+adaptive-genz-keister	750	0.7934482	0.7829588	0.0104894
+adaptive-genz-keister	7500	1.2766945	1.2794935	0.0027990
+coxme-laplace	NA	0.2516467	0.2516467	0.0000000
+genz-keister	750	9.4885309	1.2502033	8.2383276
+genz-keister	7500	5.3099217	1.6943768	3.6155449

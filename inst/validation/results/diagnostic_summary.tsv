@@ -1,0 +1,6 @@
+method	maxpts	replicates	mean_sigma2	bias	rmse	convergence_rate	integration_failure_rate	cap_rate	mean_runtime_seconds	mode_failures	hessian_regularizations
+adaptive-genz-keister	750	3	0.4089433	-1.5910567	1.623788	0.3333333	1	1	0.4353333	0	0
+adaptive-genz-keister	7500	3	0.5764885	-1.4235115	1.518452	0.3333333	1	1	3.7046667	0	0
+coxme-laplace	NA	3	0.2253265	-1.7746735	1.783174	1	NA	NA	0.0296667	NA	NA
+genz-keister	750	3	4.0474356	2.0474356	4.490936	0	1	1	2.3750000	0	0
+genz-keister	7500	3	1.9258130	-0.0741870	2.401672	0.3333333	1	1	21.1646667	0	0

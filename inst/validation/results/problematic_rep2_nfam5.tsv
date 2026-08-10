@@ -1,0 +1,6 @@
+replicate	permuted	method	nominal_maxpts	true_sigma2	sigma2_hat	bias	squared_error	converged	integration_failure	reached_cap	max_evaluations	mode_failures	hessian_regularizations	runtime_seconds	log_likelihood	warning_count	n	families	max_family_size
+2	FALSE	genz-keister	750	2	2.65377589176351	0.653775891763513	0.427422916651176	FALSE	TRUE	5	4151	0	0	2.092	0	1	97	5	25
+2	FALSE	genz-keister	7500	2	0.467517327785315	-1.53248267221469	2.34850314063826	FALSE	TRUE	5	27701	0	0	18.473	0	1	97	5	25
+2	FALSE	adaptive-genz-keister	750	2	0.433381364880486	-1.56661863511951	2.45429394790373	FALSE	TRUE	5	451	0	0	0.343	0	1	97	5	25
+2	FALSE	adaptive-genz-keister	7500	2	0.452771027344063	-1.54722897265594	2.39391749382595	FALSE	TRUE	5	4151	0	0	2.773	0	1	97	5	25
+2	FALSE	coxme-laplace	NA	2	0.423932699391072	-1.57606730060893	2.48398813604871	TRUE	NA	NA	NA	NA	NA	0.0299999999999976	NA	0	97	5	25
